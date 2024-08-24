@@ -1,0 +1,4 @@
+Comfortaa.ttf
+passiveIconWindowAsset.txt
+smallTaskWindowAsset.txt
+taskChooseWindowAsset.txt

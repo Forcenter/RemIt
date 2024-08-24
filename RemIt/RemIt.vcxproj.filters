@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Исходные файлы">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Файлы заголовков">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Файлы ресурсов">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Файлы заголовков\WindowComponents">
+      <UniqueIdentifier>{f876604f-f687-4cca-8d7c-1604ce782dad}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\WindowComponents">
+      <UniqueIdentifier>{c3f92177-7137-4b96-b7fe-5bcc438fc0e8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\Windows">
+      <UniqueIdentifier>{e1c049fe-7775-4750-8b9f-28cc01dcd0f4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Windows">
+      <UniqueIdentifier>{455d802c-e905-4517-be07-f9156d9906c7}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="App.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Event.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Task.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Button.cpp">
+      <Filter>Исходные файлы\WindowComponents</Filter>
+    </ClCompile>
+    <ClCompile Include="CollapseHorWindowField.cpp">
+      <Filter>Исходные файлы\WindowComponents</Filter>
+    </ClCompile>
+    <ClCompile Include="TaskChooseWindow.cpp">
+      <Filter>Исходные файлы\Windows</Filter>
+    </ClCompile>
+    <ClCompile Include="Window.cpp">
+      <Filter>Исходные файлы\Windows</Filter>
+    </ClCompile>
+    <ClCompile Include="TaskPlate.cpp">
+      <Filter>Исходные файлы\WindowComponents</Filter>
+    </ClCompile>
+    <ClCompile Include="FilterButton.cpp">
+      <Filter>Исходные файлы\WindowComponents</Filter>
+    </ClCompile>
+    <ClCompile Include="AddTaskMiniWindow.cpp">
+      <Filter>Исходные файлы\WindowComponents</Filter>
+    </ClCompile>
+    <ClCompile Include="AddButton.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="App.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="Constants.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="Event.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="Task.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="Button.h">
+      <Filter>Файлы заголовков\WindowComponents</Filter>
+    </ClInclude>
+    <ClInclude Include="WindowField.h">
+      <Filter>Файлы заголовков\WindowComponents</Filter>
+    </ClInclude>
+    <ClInclude Include="CollapseHorWindowField.h">
+      <Filter>Файлы заголовков\WindowComponents</Filter>
+    </ClInclude>
+    <ClInclude Include="StaticWindowField.h">
+      <Filter>Файлы заголовков\WindowComponents</Filter>
+    </ClInclude>
+    <ClInclude Include="SemiCircleShape.h">
+      <Filter>Файлы заголовков\WindowComponents</Filter>
+    </ClInclude>
+    <ClInclude Include="Window.h">
+      <Filter>Файлы заголовков\Windows</Filter>
+    </ClInclude>
+    <ClInclude Include="TaskChooseWindow.h">
+      <Filter>Файлы заголовков\Windows</Filter>
+    </ClInclude>
+    <ClInclude Include="FilterButton.h">
+      <Filter>Файлы заголовков\WindowComponents</Filter>
+    </ClInclude>
+    <ClInclude Include="TaskPlate.h">
+      <Filter>Файлы заголовков\WindowComponents</Filter>
+    </ClInclude>
+    <ClInclude Include="AddTaskMiniWindow.h">
+      <Filter>Файлы заголовков\WindowComponents</Filter>
+    </ClInclude>
+    <ClInclude Include="AddButton.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
